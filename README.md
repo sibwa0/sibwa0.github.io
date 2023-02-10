@@ -18,30 +18,42 @@
 </p>
 
 
-### Key points
+## Key points
 *   Improving 
-    *   my algorithms skiils on [leetcode](https://leetcode.com/alexey1909/)
+    *   algorithms skiils on [leetcode](https://leetcode.com/alexey1909/)
     *   science skills on [kaggle](https://www.kaggle.com/sklaa00/)
 
 *   Interesting in 
     *   Data Science
     *   Data Engineering
+    *   Big Data
 *   Currently studing in 
     *   BMSTU 5th year student
     *   VK Education Machine Learning cources
+
 
 ## 🛠 Technical Stack
 *   Python, C, C++, Golang languages
 *   Numpy, Pytorch, Pandas
 *   GitHub, GitLab
-<!-- *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase -->
+*   PostgreSQL
 
-### My opensource projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+## Opensource projects
+
+*   [PianoMusicTranscription](https://github.com/ilya0100/MusicTranscription/tree/develop) - convolution nn gets wav-file as intput, predicts note sequence (python)
+*   [StartYourProject](https://github.com/v-mk-s/StartYourProject/tree/alexey_go_Qt) - helps people to find team (cplusplus, Qt)
+*   [ChessMate](https://github.com/ilya0100/ChessMate/tree/master) - Chess (cplusplus)
+
+
+## Courses
+
+*   [Python C++](https://stepik.org/users/352084771/certificates?preview=true)
+*   [Prepare C++](https://park.vk.company/curriculum/certificates/download/2919/0c14817b-8639-4adc-9d8b-9ebeca775d88/)
+*   [Advanced Python](https://github.com/sibwa0/deep_python_hw)
+*   [Algorithms](https://github.com/sibwa0/algorithms)
+*   [Neural Networks](https://github.com/sibwa0/neural_networks_vk_edu)
+*   [MLOPS](https://github.com/sibwa0/alexey_sklyannyy)
 
 
 ### 🧰 Languages and Tools:
