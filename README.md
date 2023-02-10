@@ -15,13 +15,12 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
     <img src="https://img.shields.io/badge/vk-%230077B5.svg?&style=for-the-badge&logo=vk&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align='center'>
-  📫  How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+  📫  How to reach me: <a href='mte1909@mai.ru'>mte1909@mail.ru</a>
 </p>
 
 
 ### Connect with me:
 
-[<img align="left" alt="sibwa0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sibwa0 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="sibwa0 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
