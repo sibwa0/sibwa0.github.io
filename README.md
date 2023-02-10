@@ -1,6 +1,7 @@
 # Hi, I'm Alexey 👋
-Senior Software Engineer with more than 6 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+* Data Scientist
+* BMSTU 5th year student
+* VK Education Machine Learning cources
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=sibwa0&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=sibwa0&show_icons=true&count_private=true" /></a>
@@ -19,7 +20,6 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 </p>
 
 
-
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
@@ -28,10 +28,10 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
 
 ## 🛠 Technical Stack
-*   Python/C/C++/Golang languages
-<!-- *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase -->
+*   Python, C, C++, Golang languages
 *   Numpy, Pytorch, Pandas
-*   GitHub/GitLab/
+*   GitHub, GitLab
+<!-- *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase -->
 
 ### My opensource projects
 
@@ -50,7 +50,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 <img align="left" alt="Cpp" width="50px"  style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original.svg" />
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original.svg" />
-<img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/fastapi/fastapi-original-wordmark.svg" />
+<img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
