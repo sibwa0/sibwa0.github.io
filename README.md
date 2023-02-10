@@ -43,7 +43,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 <br>
 
 <div align="center" style="margin: 40px 0">
-    <a href="https://github.com/romankh3/github-profile-views-counter">
+    <a href="https://github.com/sibwa0/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
     </a>
 </div>
