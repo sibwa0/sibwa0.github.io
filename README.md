@@ -28,11 +28,10 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   Python/C/C++/Golang languages
+<!-- *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase -->
+*   Numpy, Pytorch, Pandas
+*   GitHub/GitLab/
 
 ### My opensource projects
 
@@ -51,6 +50,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 <img align="left" alt="Cpp" width="50px"  style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original.svg" />
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original.svg" />
+<img align="left" alt="FastAPI" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/fastapi/fastapi-original-wordmark.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
