@@ -23,6 +23,8 @@ I'm BMSTU Faculty of Computer Science and Control Systems IU2 5-th year student 
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 <br />
+<br />
+<br />
 
 
 ## Opensource projects
