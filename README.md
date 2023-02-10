@@ -1,7 +1,5 @@
 # Hi, I'm Alexey 👋
-* Data Scientist
-* BMSTU 5th year student
-* VK Education Machine Learning cources
+
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=sibwa0&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=sibwa0&show_icons=true&count_private=true" /></a>
@@ -23,9 +21,15 @@
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 *   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
+
+*   Interesting in 
+    *   Data Science
+    *   Data Engineering
+*   Currently studing in 
+    *   BMSTU 5th year student
+    *   VK Education Machine Learning cources
 
 ## 🛠 Technical Stack
 *   Python, C, C++, Golang languages
