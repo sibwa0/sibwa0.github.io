@@ -18,6 +18,14 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
   📫  How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
 </p>
 
+
+### Connect with me:
+
+[<img align="left" alt="sibwa0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sibwa0 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="sibwa0 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
@@ -39,3 +47,9 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
+
+[website]: https://webtricks-master.ru/
+[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
+[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
+[telegram]: https://t.me/sibwa0
+[vk]: https://vk.com/sibwa
