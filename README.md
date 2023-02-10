@@ -3,16 +3,16 @@ Senior Software Engineer with more than 6 years of commertial experience. I have
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/romankh3/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact" /></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=sibwa0&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=sibwa0&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/sibwa0/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibwa0&layout=compact" /></a>
  </p>
 
 <p align='center'>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05" target="_blank">
+   <a href="https://t.me/sibwa0" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/romankh3/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://vk.com/sibwa" target="_blank">
+    <img src="https://img.shields.io/badge/vk-%230077B5.svg?&style=for-the-badge&logo=vk&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align='center'>
   📫  How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
