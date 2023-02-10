@@ -19,10 +19,9 @@
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
-*   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
+*   Improving 
+    *   my algorithms skiils on [leetcode](https://leetcode.com/alexey1909/)
+    *   science skills on [kaggle](https://www.kaggle.com/sklaa00/)
 
 *   Interesting in 
     *   Data Science
