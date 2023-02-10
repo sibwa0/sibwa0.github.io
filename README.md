@@ -20,7 +20,7 @@
 
 ## Key points
 *   Improving 
-    *   algorithms skiils on [leetcode](https://leetcode.com/alexey1909/)
+    *   algorithms skills on [leetcode](https://leetcode.com/alexey1909/)
     *   science skills on [kaggle](https://www.kaggle.com/sklaa00/)
 
 *   Interesting in 
