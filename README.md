@@ -20,7 +20,7 @@
 
 ## Key points
 *   Improving 
-    *   algorithms skills on [leetcode](https://leetcode.com/alexey1909/)
+    *   algorithms skiils on [leetcode](https://leetcode.com/alexey1909/)
     *   science skills on [kaggle](https://www.kaggle.com/sklaa00/)
 
 *   Interesting in 
@@ -52,6 +52,7 @@
 *   [Prepare C++](https://park.vk.company/curriculum/certificates/download/2919/0c14817b-8639-4adc-9d8b-9ebeca775d88/)
 *   [Advanced Python](https://github.com/sibwa0/deep_python_hw)
 *   [Algorithms](https://github.com/sibwa0/algorithms)
+*   [IntroML](https://github.com/sibwa0/Intro_ML)
 *   [Neural Networks](https://github.com/sibwa0/neural_networks_vk_edu)
 *   [MLOPS](https://github.com/sibwa0/alexey_sklyannyy)
 
