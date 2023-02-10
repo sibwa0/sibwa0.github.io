@@ -39,14 +39,6 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
-### Donate
-
-<div>
-  <a class="donate-with-crypto"
-     href="https://commerce.coinbase.com/checkout/77132d55-90df-4df0-9a0c-f535afc9ef71">
-    Donate with Crypto
-  </a>
-</div>
 
 <br>
 
