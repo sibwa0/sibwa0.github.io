@@ -29,7 +29,7 @@ I'm BMSTU Faculty of Computer Science and Control Systems IU2 5-th year student 
 
 ## Opensource projects
 
-*   [PianoMusicTranscription](https://github.com/ilya0100/MusicTranscription/tree/develop) - convolution nn gets wav-file as intput, predicts note sequence (python)
+*   [PianoMusicTranscription](https://github.com/ilya0100/MusicTranscription/tree/ctc_approach) - convolution nn gets wav-file as intput, predicts note sequence (python)
 *   [StartYourProject](https://github.com/v-mk-s/StartYourProject/tree/alexey_go_Qt) - helps people to find team (cplusplus, Qt front-end)
 *   [ChessMate](https://github.com/ilya0100/ChessMate/tree/master) - Chess (cplusplus)
 
